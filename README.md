@@ -2,7 +2,7 @@
 
 Speedometer app for GLASS with analog and digital display
 
-"Ok glass, Show me my speed" - RaceHUD APK
+"Ok glass, Show me my speed" - [RaceHUD APK] (https://github.com/game100n/RaceHUDv3/blob/master/app/RaceHUD-release.apk)
 
 ## Permissions
 
