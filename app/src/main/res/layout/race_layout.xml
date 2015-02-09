@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black">
+    <!-- android:keepScreenOn="true" -->
+
+    <com.rfr.glass.racehud.Race_View
+        android:id="@+id/speedometer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+<!--
+    <ImageView
+        android:id="@+id/raceGauge"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/racehud_gauge"
+        android:contentDescription="Gauge for speedometer"/>
+
+    <ImageView
+        android:id="@+id/raceNeedle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/racehud_needle_large"
+        android:contentDescription="Needle for Gauge" />
+
+    <ImageView
+        android:id="@+id/raceCircle"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/racehud_circle"
+        android:contentDescription="Overlays on needle for digital output"/>
+
+    <TextView
+        android:layout_width="192dp"
+        android:layout_height="145dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/initial_speed"
+        android:id="@+id/raceText"
+        android:layout_gravity="center"
+        android:gravity="top|center"
+        android:textColor="@android:color/holo_red_light"
+        android:textSize="70sp" />
+
+    <TextView
+        android:layout_width="192dp"
+        android:layout_height="75dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/MPH"
+        android:id="@+id/raceLabel"
+        android:layout_gravity="center"
+        android:gravity="bottom|center"
+        android:textColor="@android:color/white"
+        android:textSize="30sp" />
+-->
+</FrameLayout>
